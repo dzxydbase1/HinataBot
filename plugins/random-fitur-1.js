@@ -51,14 +51,7 @@ mentions: m.mentionedJid
 } : {})
 }
 
-if (command == 'bokep') {
-if (!text) throw `Contoh penggunaan ${usedPrefix}${command} 1`
-let pe = ['1', '2', '3', '4', '5', '6', '7', '8', '9']
-let pw = pe.getRandom()
-if (text == pw) {
-conn.sendFile(m.chat, 'https://yog-apikey.herokuapp.com/api/bokep?apikey=YogGanz', 'asupan.mp4', wm, m)
-} else {
-return m.reply('Mampus Salah Nomor')
+
 }
 }
 
@@ -105,14 +98,7 @@ let res = await fetch(`https://yog-apikey.herokuapp.com/api/cerpen?apikey=YogGan
             ], m, { quoted: fakes })
 }
 
-if (command == 'mencersex') {
-let res = await fetch(`https://yog-apikey.herokuapp.com/api/cersex?apikey=YogGanz`)
-  let sul = await res.json()
-  let has = sul.result.result
-  await conn.sendButton(m.chat, `*Judul:* ${has.judul}
-  *Cerita:* ${has.cersex}`, author, has.img, [
-                ['Next', `${usedPrefix + command}`]
-            ], m, { quoted: fakes })
+
 }
 
 if (command == 'asmaulhusna') {
