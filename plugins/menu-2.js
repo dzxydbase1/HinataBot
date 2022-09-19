@@ -22,7 +22,7 @@ ${usedPrefix + command} advanceglow
 ${usedPrefix + command} ahegao
 ${usedPrefix + command} alquran
 ${usedPrefix + command} alquranaudio
-${usedPrefix + command} anal
+${usedPrefix + command} 
 ${usedPrefix + command} anime
 ${usedPrefix + command} animearmpits
 ${usedPrefix + command} animebellybutton
@@ -33,7 +33,7 @@ ${usedPrefix + command} arcade8bit
 ${usedPrefix + command} art
 ${usedPrefix + command} artinama
 ${usedPrefix + command} asmaulhusna
-${usedPrefix + command} asupan
+${usedPrefix + command} 
 ${usedPrefix + command} avenger
 ${usedPrefix + command} baka
 ${usedPrefix + command} battlefield4
