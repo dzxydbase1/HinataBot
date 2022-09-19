@@ -42,18 +42,18 @@ ${usedPrefix + command} ayuzawa
 ${usedPrefix + command} bdsm
 ${usedPrefix + command} black-pink
 ${usedPrefix + command} blood
-${usedPrefix + command} blowjob
+${usedPrefix + command} 
 ${usedPrefix + command} boneka-chucky
 ${usedPrefix + command} boruto
 ${usedPrefix + command} bread
 ${usedPrefix + command} broken-glass
-${usedPrefix + command} cecan
-${usedPrefix + command} cecan2
+${usedPrefix + command} 
+${usedPrefix + command} 
 ${usedPrefix + command} chiho
 ${usedPrefix + command} chitoge
 ${usedPrefix + command} christmas
-${usedPrefix + command} cogan
-${usedPrefix + command} cogan2
+${usedPrefix + command} 
+${usedPrefix + command} 
 ${usedPrefix + command} cuckold
 ${usedPrefix + command} cum
 ${usedPrefix + command} cyberspace
@@ -82,7 +82,7 @@ ${usedPrefix + command} hallowen
 ${usedPrefix + command} hallowen-text
 ${usedPrefix + command} harry-potter
 ${usedPrefix + command} hekel
-${usedPrefix + command} hentai
+${usedPrefix + command} 
 ${usedPrefix + command} hestia
 ${usedPrefix + command} hinata
 ${usedPrefix + command} holograpic
@@ -117,7 +117,7 @@ ${usedPrefix + command} luxury
 ${usedPrefix + command} madara
 ${usedPrefix + command} magma
 ${usedPrefix + command} manga
-${usedPrefix + command} masturbation
+${usedPrefix + command} 
 ${usedPrefix + command} mediafire
 ${usedPrefix + command} megumin
 ${usedPrefix + command} mikasa
@@ -140,7 +140,7 @@ ${usedPrefix + command} orgy
 ${usedPrefix + command} panties
 ${usedPrefix + command} pentol
 ${usedPrefix + command} pokemon
-${usedPrefix + command} pornhub
+${usedPrefix + command} 
 ${usedPrefix + command} ppcouple
 ${usedPrefix + command} programing
 ${usedPrefix + command} pubg
@@ -176,8 +176,8 @@ ${usedPrefix + command} wallhp
 ${usedPrefix + command} water-color
 ${usedPrefix + command} wicker
 ${usedPrefix + command} writing
-${usedPrefix + command} xnxx
-${usedPrefix + command} xvideo
+${usedPrefix + command} 
+${usedPrefix + command} 
 ${usedPrefix + command} yotsuba
 ${usedPrefix + command} yuki
 ${usedPrefix + command} yumeko
