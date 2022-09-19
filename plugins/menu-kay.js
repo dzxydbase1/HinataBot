@@ -27,10 +27,10 @@ ${usedPrefix + command} img |wibu
 > akira
 > ass
 > asuna
-> blowjob
+> 
 > cum
 > foot
-> hentai
+> 
 > hinata
 > husbu
 > loli
@@ -38,13 +38,13 @@ ${usedPrefix + command} img |wibu
 > islamic
 
 • vid
-> asupan
+> 
 > jjanime
 > jjfreefire
 > jjml
 > jjpubg
 > ptl
-> hentai
+> 
 > hinata
 > husbu
 > loli
