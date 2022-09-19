@@ -26,11 +26,11 @@ ${usedPrefix + command} attp teks
 • ${usedPrefix + command} attp
 • ${usedPrefix + command} bdsm
 • ${usedPrefix + command} bijak
-• ${usedPrefix + command} blowjob
+• ${usedPrefix + command} 
 • ${usedPrefix + command} bonk
-• ${usedPrefix + command} bucin
+• ${usedPrefix + command} 
 • ${usedPrefix + command} bully
-• ${usedPrefix + command} cecans
+• ${usedPrefix + command} 
 • ${usedPrefix + command} chobay
 • ${usedPrefix + command} chord
 • ${usedPrefix + command} corohelp
@@ -54,15 +54,15 @@ ${usedPrefix + command} attp teks
 • ${usedPrefix + command} githubstalk
 • ${usedPrefix + command} glasses
 • ${usedPrefix + command} harley
-• ${usedPrefix + command} hentai
-• ${usedPrefix + command} hentaigif
-• ${usedPrefix + command} hijaber
+• ${usedPrefix + command} 
+• ${usedPrefix + command} 
+• ${usedPrefix + command} hijaberhentaigif
 • ${usedPrefix + command} hug
 • ${usedPrefix + command} islami
 • ${usedPrefix + command} jahy
 • ${usedPrefix + command} joker
 • ${usedPrefix + command} lick
-• ${usedPrefix + command} masturbation
+• ${usedPrefix + command} 
 • ${usedPrefix + command} megumin
 • ${usedPrefix + command} motivasi
 • ${usedPrefix + command} neko
