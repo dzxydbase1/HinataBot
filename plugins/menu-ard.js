@@ -35,15 +35,15 @@ ${usedPrefix + command} pinterest |wibu
 *List:*
 • ${usedPrefix + command} asmaulhusna
 • ${usedPrefix + command} badut
-• ${usedPrefix + command} blowjob
-• ${usedPrefix + command} bokep
+• ${usedPrefix + command} 
+• ${usedPrefix + command} 
 • ${usedPrefix + command} chord
 • ${usedPrefix + command} dailyprophet
 • ${usedPrefix + command} darkjokes
 • ${usedPrefix + command} gempa
 • ${usedPrefix + command} halah
 • ${usedPrefix + command} heleh
-• ${usedPrefix + command} hentai
+• ${usedPrefix + command} 
 • ${usedPrefix + command} hilih
 • ${usedPrefix + command} hitler
 • ${usedPrefix + command} holoh
