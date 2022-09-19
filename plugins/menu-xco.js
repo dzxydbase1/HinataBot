@@ -46,14 +46,14 @@ ${usedPrefix + command} pinterest |wibu
 • ${usedPrefix + command} batman
 • ${usedPrefix + command} beachsign
 • ${usedPrefix + command} bear
-• ${usedPrefix + command} beautiful
+• ${usedPrefix + command} 
 • ${usedPrefix + command} berry
-• ${usedPrefix + command} blackpink
-• ${usedPrefix + command} blackpink
+• ${usedPrefix + command} 
+• ${usedPrefix + command} 
 • ${usedPrefix + command} blood
 • ${usedPrefix + command} blur
 • ${usedPrefix + command} bracelet
-• ${usedPrefix + command} brazzers
+• ${usedPrefix + command} 
 • ${usedPrefix + command} brick
 • ${usedPrefix + command} broken
 • ${usedPrefix + command} burn
@@ -74,7 +74,7 @@ ${usedPrefix + command} pinterest |wibu
 • ${usedPrefix + command} citybillboard
 • ${usedPrefix + command} cloth
 • ${usedPrefix + command} cloud
-• ${usedPrefix + command} codenhentai
+• ${usedPrefix + command} 
 • ${usedPrefix + command} coffecup
 • ${usedPrefix + command} coffee
 • ${usedPrefix + command} communism
