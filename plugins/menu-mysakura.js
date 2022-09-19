@@ -56,7 +56,7 @@ ${usedPrefix + command} attp teks
 • ${usedPrefix + command} harley
 • ${usedPrefix + command} 
 • ${usedPrefix + command} 
-• ${usedPrefix + command} hijaberhentaigif
+• ${usedPrefix + command} 
 • ${usedPrefix + command} hug
 • ${usedPrefix + command} islami
 • ${usedPrefix + command} jahy
