@@ -44,9 +44,9 @@ ${usedPrefix + command} birthdayday
 ${usedPrefix + command} bj
 ${usedPrefix + command} blackpink
 ${usedPrefix + command} bloodfrosted
-${usedPrefix + command} blowjob
-${usedPrefix + command} bokeh
-${usedPrefix + command} box3d
+${usedPrefix + command}
+${usedPrefix + command} 
+${usedPrefix + command} 
 ${usedPrefix + command} brainly
 ${usedPrefix + command} breakwall
 ${usedPrefix + command} bts
@@ -115,10 +115,10 @@ ${usedPrefix + command} greenneon
 ${usedPrefix + command} halloween
 ${usedPrefix + command} harrypotter
 ${usedPrefix + command} heartshaped
-${usedPrefix + command} hentai
-${usedPrefix + command} hentai4everyone
-${usedPrefix + command} hentaifemdom
-${usedPrefix + command} hentaiparadise
+${usedPrefix + command} 
+${usedPrefix + command} 
+${usedPrefix + command} 
+${usedPrefix + command} 
 ${usedPrefix + command} heroml
 ${usedPrefix + command} hoax
 ${usedPrefix + command} holo
@@ -194,8 +194,8 @@ ${usedPrefix + command} pinterestdl
 ${usedPrefix + command} pixiv
 ${usedPrefix + command} pixivdl
 ${usedPrefix + command} playstore
-${usedPrefix + command} poke
-${usedPrefix + command} pornhub
+${usedPrefix + command} 
+${usedPrefix + command} 
 ${usedPrefix + command} pubg
 ${usedPrefix + command} puppycute
 ${usedPrefix + command} pussy
