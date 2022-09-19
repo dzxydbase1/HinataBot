@@ -7,7 +7,7 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
 • cry
 • hug
 • awoo
-• kiss
+• 
 • lick
 • pat
 • smug
