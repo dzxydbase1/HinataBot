@@ -38,7 +38,7 @@ ${usedPrefix + command} pinterest |wibu
 • ${usedPrefix + command} ass
 • ${usedPrefix + command} bdsm
 • ${usedPrefix + command} biden
-• ${usedPrefix + command} blowjob
+• ${usedPrefix + command} 
 • ${usedPrefix + command} blue
 • ${usedPrefix + command} blur
 • ${usedPrefix + command} boruto
@@ -57,7 +57,7 @@ ${usedPrefix + command} pinterest |wibu
 • ${usedPrefix + command} greyscale
 • ${usedPrefix + command} gun
 • ${usedPrefix + command} halloween
-• ${usedPrefix + command} hentai
+• ${usedPrefix + command} 
 • ${usedPrefix + command} horror
 • ${usedPrefix + command} impressive
 • ${usedPrefix + command} invert
@@ -67,7 +67,7 @@ ${usedPrefix + command} pinterest |wibu
 • ${usedPrefix + command} killua
 • ${usedPrefix + command} luffy
 • ${usedPrefix + command} magma
-• ${usedPrefix + command} masturbation
+• ${usedPrefix + command} 
 • ${usedPrefix + command} metal
 • ${usedPrefix + command} metallic
 • ${usedPrefix + command} minato
