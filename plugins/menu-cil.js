@@ -45,7 +45,7 @@ ${usedPrefix + command} pinterest |wibu
 • ${usedPrefix + command} bucin
 • ${usedPrefix + command} carbon
 • ${usedPrefix + command} cerpen
-• ${usedPrefix + command} cersex
+• ${usedPrefix + command} 
 • ${usedPrefix + command} chord
 • ${usedPrefix + command} citacita
 • ${usedPrefix + command} counter
