@@ -33,14 +33,14 @@ ${usedPrefix + command} akira
 ${usedPrefix + command} akiyama
 ${usedPrefix + command} anaa
 ${usedPrefix + command} anime
-${usedPrefix + command} anjing
+${usedPrefix + command} 
 ${usedPrefix + command} art-papper
 ${usedPrefix + command} ass
 ${usedPrefix + command} astone
-${usedPrefix + command} asuna
-${usedPrefix + command} ayuzawa
+${usedPrefix + command} 
+${usedPrefix + command} 
 ${usedPrefix + command} bdsm
-${usedPrefix + command} black-pink
+${usedPrefix + command} 
 ${usedPrefix + command} blood
 ${usedPrefix + command} 
 ${usedPrefix + command} boneka-chucky
