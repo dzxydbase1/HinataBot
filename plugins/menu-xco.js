@@ -103,7 +103,7 @@ ${usedPrefix + command} pinterest |wibu
 • ${usedPrefix + command} foggy
 • ${usedPrefix + command} frame
 • ${usedPrefix + command} frame
-• ${usedPrefix + command} gay
+• ${usedPrefix + command} 
 • ${usedPrefix + command} giantartwork
 • ${usedPrefix + command} giraffe
 • ${usedPrefix + command} glasses
@@ -332,7 +332,7 @@ case 'badut3':
 case 'badut':
 case 'beautiful':
 case 'blur':
-case 'brazzers':
+case '
 case 'burn':
 case 'challenger':
 case 'circle':
@@ -345,7 +345,7 @@ case 'distort':
 case 'emboss':
 case 'facepalm':
 case 'frame':
-case 'gay':
+case '
 case 'glitch':
 case 'greyscale':
 case 'instagram':
