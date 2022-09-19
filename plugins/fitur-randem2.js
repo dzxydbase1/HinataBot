@@ -2,7 +2,7 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
   if (!text) return m.reply(`Example : ${usedPrefix + command} bj
   *List Efek:*
 
-• bj
+• 
 • ero
 • cum
 • les
@@ -17,12 +17,12 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
 • solo
 • gasm
 • poke
-• anal
+•
 • holo
 • keta
-• tits
+•
 • kuni
-• kiss
+• 
 • erok
 • smug
 • baka
@@ -34,15 +34,15 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
 • tickle
 • femdom
 • cuddle
-• hentai
+• 
 • eroyuri
 • cum_jpg
-• blowjob
+• 
 • erofeet
 • holoero
 • classic
 • erokemo
-• fox_girl
+• 
 • futanari
 • hololewd
 • lewdkemo
@@ -50,8 +50,8 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
 • pussy_jpg
 • kemonomimi
 • nsfw_avatar
-• nsfw_neko_gif
-• random_hentai_gif`)
+• 
+• 
         let images = `https://api.lolhuman.xyz/api/random/nsfw/${text}?apikey=${global.lolkey}`
         await conn.sendButton(m.chat, `Nih ${text}`, wm, images, [
                 ['Next', `${usedPrefix}${command}`]
