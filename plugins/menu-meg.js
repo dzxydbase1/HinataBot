@@ -61,7 +61,7 @@ switch (template) {
 
 • ass
 • bdsm
-• blowjob
+• 
 • cuckold
 • cum
 • cum
@@ -69,13 +69,13 @@ switch (template) {
 • doujin
 • feet
 • femdom
-• foxgirl
+• 
 • gangbang
 • gif
-• hentai
+• 
 • lewdneko
 • maid
-• masturbation
+• 
 • mobileWallpapers
 • neko
 • netorare
